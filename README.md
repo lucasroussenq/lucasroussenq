@@ -1,4 +1,4 @@
-# Whats up! 👋
+# What’s up! 👋
 
 ---
 
