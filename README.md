@@ -15,6 +15,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frameworks & Arquitetura
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009CAB?style=flat&logo=fastapi&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC_Pattern-4A4A4A?style=flat)
