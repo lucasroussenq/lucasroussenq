@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
 
 ### Back-End & Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,py,flask,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,java,mysql)](https://skillicons.dev)
 
 ### DevOps & Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,phpstorm)](https://skillicons.dev)
