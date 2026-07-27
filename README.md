@@ -22,21 +22,19 @@
 </div>
 
 ##
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=00FF00&width=435&lines=Contato%3A)](https://git.io/typing-svg)
 
 <div align="center">
 
   <a href="https://www.linkedin.com/in/lucas-mockel-roussenq/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-001F00?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=001200" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:lucassenq@gmail.com">
-    <img src="https://img.shields.io/badge/Email-001F00?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=001200" alt="E-mail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 
 </div>
-
-##
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=00FF00&width=435&lines=GitHub+Stats%3A)](https://git.io/typing-svg)
 
