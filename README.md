@@ -1,42 +1,63 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=header" width="100%" />
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=10000&color=00FF00&width=300&lines=What's+up!+%F0%9F%91%8B)](https://git.io/typing-svg)
-
-##
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3900&pause=10000&color=00FF00&width=435&lines=Tecnologias+e+Stack%3A)](https://git.io/typing-svg)
-
-<div align="center"><br>
-
-### Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
-
-### Back-End & Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,java,mysql)](https://skillicons.dev)
-
-### DevOps & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,phpstorm)](https://skillicons.dev)
-
-</div>
-
-##
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=00FF00&width=435&lines=Contato%3A)](https://git.io/typing-svg)
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=10000&color=007ACC&width=500&center=true&vCenter=true&lines=What's+up!+%F0%9F%91%8B" alt="What's up!" />
+  </a>
+</div>
 
+<hr />
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3900&pause=10000&color=007ACC&width=500&center=true&vCenter=true&lines=Tecnologias+e+Stack%3A" alt="Tecnologias e Stack" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <h3>Front-End</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" alt="Front-End Skills" />
+  </a>
+
+  <h3>Back-End & Banco de Dados</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,mysql" alt="Back-End Skills" />
+  </a>
+
+  <h3>DevOps & Ferramentas</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,phpstorm" alt="DevOps Skills" />
+  </a>
+</div>
+
+<hr />
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=007ACC&width=500&center=true&vCenter=true&lines=Contato%3A" alt="Contato" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/lucas-mockel-roussenq/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:lucassenq@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=00FF00&width=435&lines=GitHub+Stats%3A)](https://git.io/typing-svg)
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=007ACC&width=500&center=true&vCenter=true&lines=GitHub+Stats%3A" alt="GitHub Stats" />
+  </a>
+</div>
 
 <div align="center">
   <table>
@@ -55,8 +76,8 @@
   </table>
 </div>
 
-##
+<hr />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=70&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=70&section=footer" width="100%" />
 </div>
