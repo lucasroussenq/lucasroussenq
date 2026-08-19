@@ -52,32 +52,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=007ACC&width=500&center=true&vCenter=true&lines=GitHub+Stats%3A" alt="GitHub Stats" />
-  </a>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/lucasroussenq">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasroussenq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/lucasroussenq">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasroussenq&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=70&section=footer" width="100%" />
-</div>
