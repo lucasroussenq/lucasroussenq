@@ -18,6 +18,7 @@
 
 <div align="center">
   <br>
+
   <h3>Front-End</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" alt="Front-End Skills" />
@@ -46,9 +47,14 @@
   <a href="https://www.linkedin.com/in/lucas-mockel-roussenq/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+
   <a href="mailto:lucassenq@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=70&section=footer" width="100%" />
+</div>
